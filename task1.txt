@@ -1,4 +1,10 @@
 Now I am doing GIT assignment.
 this is the 1st step
 asdfghjk
+GIT:
+	GIT is a free and open source distributed version control system designed to handle everything
+	from small to very large projects with speed and efficiency.
+	GIT is the version control system for tracking changes in computer files.
+	It is used for coordinating work among several people on a project and tracking
+	progress over time.
 
