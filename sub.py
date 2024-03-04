@@ -5,7 +5,7 @@ print("sustraction done")
 print("again adding")
 print(a)
 
-print("first")
+print("first")//
 
 print("second")
  
